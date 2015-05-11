@@ -1,0 +1,17 @@
+{
+  "name": "rpi-ldr-led",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sensor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.itm.uni-luebeck.de:etzel/rpi-ldr-led-nodejs.git"
+  },
+  "dependencies": {
+    "pi-gpio": "~0.0.7"
+  },
+  "license": "ISC"
+}
